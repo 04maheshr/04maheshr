@@ -19,8 +19,7 @@ Hi, I'm R. Mahesh, a dedicated Web Developer and Machine Learning enthusiast wit
 
 ### 🌐 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-r1304) – Let’s connect and grow together!
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rhsira152/) – Explore my coding journey and insights.
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/user2745ns/) – Check out my problem-solving skills.
+
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:r.hsirah.1@gmail.com) – Feel free to reach out!
 
 ---
