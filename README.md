@@ -5,11 +5,11 @@ Hi, I'm R. Mahesh, a dedicated Web Developer and Machine Learning enthusiast wit
 ---
 
 ### 🚀 Skills
-- **💻 Programming Languages**: C | C++ | C# | Java | Python | JavaScript
+- **💻 Programming Languages**: Java | Python | JavaScript
 - **🌐 Frontend Technologies**: HTML | CSS | ReactJS
 - **🖥️ Backend Technologies**: Node.js | Express | MongoDB | Flask | FastAPI | Firebase | MySQL
 - **🔧 Tools**: Git | Machine Learning (Pandas, Numpy)
-- **☁️ Cloud Platforms**: Firebase | MongoDB Atlas | AWS Lambda
+- **☁️ Cloud Platforms**: Firebase | MongoDB Atlas 
 
 ---
 
